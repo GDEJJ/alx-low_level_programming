@@ -2,7 +2,7 @@
 
 /**
  * _abs - function to define absolute value
- *  @a - function parameter
+ *  @a: function parameter
  *  Return: -a or a
  */
 
